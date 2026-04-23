@@ -21,7 +21,3 @@ _FIXAR is an AR-guided self-repair app for home appliances, designed for the Ind
 ## 5. Why you want to join Amber
 
 _My elder sister nearly got scammed finding a flat in Limerick for her postgrad — she was booking from a distance, relying entirely on a broker’s word, and had already paid before realising the listing wasn’t what it was sold as. She caught it just in time, but the money was already moving. That moment stuck with me — not because she was naive, but because the whole process forced her to trust a stranger with no real accountability. Amber is solving exactly that: replacing broker dependency with verified listings and transparent pricing, so students aren’t making hundred-dollar decisions on someone else’s say-so. That’s not a feature set to me — it’s a problem I’ve watched someone I care about navigate badly._
-
----
-
-_By opening this PR you confirm the work above is yours and that you've read [the role](https://github.com/sudo-anmol/design-internship)._
